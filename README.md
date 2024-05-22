@@ -15,15 +15,15 @@
 --------------------------------------------------------------------
 
 ## Modulo 2: Logs de errores
-### Modulo Logging
-### Generar archivo Logs
-### Formato de log
-### Context Manager
+### [Modulo Logging](./modulo_2/modulo_loggins.py)
+### [Generar archivo Logs](./modulo_2/generar_archivo_logs.py)
+### [Formato de log](./modulo_2/formato_log.py)
+### [Context Manager](./modulo_2/context_manager.py)
 
 --------------------------------------------------------------------
 
 ## Modulo 3: Silenciar errores
 
-### Bloque silenciar errores
-### Suprimir erres
+### [Bloque silenciar errores](./modulo_3/bloque_silenciar.py)
+### [Suprimir erres](./modulo_3/suprimir_errores.py)
 
